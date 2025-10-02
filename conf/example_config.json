@@ -1,0 +1,5 @@
+{
+  "cutoff_date": "1900-01-01",
+  "bronze_partition_by": [],
+  "silver_partition_by": []
+}
