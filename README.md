@@ -4,7 +4,7 @@ A simple, professional example of a two-step data pipeline that:
 1) Ingests the latest partition from an **S3** bucket into **ADLS Bronze**.
 2) Cleans and normalizes data from **Bronze** to **Silver** using Spark.
 
-Designed to run in **Azure Synapse** (works locally with Spark, too).
+Designed to run in **Azure Synapse** or **Data Bricks** (works locally with Spark, too).
 
 ## Structure
 
